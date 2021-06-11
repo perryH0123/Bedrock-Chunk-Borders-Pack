@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"header": {
 		"name": "Hatter's Chunk Pack (Modified by Perry)",
-		"description": "This pack will show chunks when you have an item like a rocket or shell in your off hand.",
-		"uuid": "072b8262-9b6b-4638-85b6-70f4398a961b",
+		"description": "This pack will show chunks by default when in third-person. Equip a rocket, shell, or arrow in your offhand to temporarily disable.",
+		"uuid": "961c9e3a-24dc-4ff0-9e36-1a00346f6603",
 		"version": [
 			1,
 			0,
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "e9bff5f9-4ecd-4a16-adb9-414abcc75634",
+			"uuid": "2d447232-732a-4f6b-9f01-7a3b2b5d0d2d",
 			"version": [
 				1,
 				0,
